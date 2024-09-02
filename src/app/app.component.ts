@@ -33,11 +33,6 @@ export class AppComponent implements OnInit {
 
     this.metaService.addTags([
       { name: 'keywords', content: 'Frontend, software, developer, fullstack' },
-      {
-        name: 'description',
-        content:
-          'Con 4 años de experiencia desarrollando sistemas, interfaces, bots y soluciones tecnológicas  para hacer de la web un lugar mejor. En mi trabajo me gusta liderar, proponer y ejecutar ideas, escribir y refactorizar código limpio, reutilizable y escalable.',
-      },
     ]);
 
     AOS.init();
