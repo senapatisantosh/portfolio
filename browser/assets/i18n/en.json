@@ -1,0 +1,93 @@
+{
+  "Header.Item1": "About me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "CV_Santosh_Kumar_Senapati_EN.pdf",
+
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": "I have <span class='underline'>9+ years of experience</span> developing systems, , I excel in designing, developing, and implementing scalable solutions for complex business problems. Currently, I am working as an Associate Technical Architect at Euromonitor International, where I lead and mentor cross-functional teams to deliver high-quality, robust software products.",
+  "Banner.ActionBtn": "Get in touch",
+
+  "AboutMe.Title": "About me",
+  "AboutMe.Paragraphs": [
+    "In my <span class='underline'>9 years as a developer</span>, I have consistently sought to hone my skills and embrace new challenges. I have worked extensively on <span class='underline'>frontend development with Angular</span>, <span class='underline'>implementing CI/CD pipelines</span>, and handling <span class='underline'>cloud infrastructure using AWS and Azure</span>. I have led teams by fostering a culture of collaboration, setting clear objectives, and empowering my colleagues to achieve excellence.",
+    "My expertise also spans enhancing application performance, designing reusable components, and introducing innovative solutions that drive value and efficiency in the projects I lead.",
+    "Some of the technologies I have mastered and applied include (but are not limited to):"
+  ],
+
+  "Experience.Title": "Experience",
+  "Experience.Jobs": [
+    {
+      "Tab": "Euromonitor International",
+      "Title": "Technical Lead",
+      "Date": "July 2022 - Present",
+      "Description": [
+        "Facilitated reusable component (Angular) adoption, demonstrated time savings (20+ hours per component), and seamless isolated testing. Implemented end-to-end CI/CD on Azure. Successfully integrated 6 components across 10+ modules, running smoothly in production for 2 years.",
+        "Accelerated Extraction Application's transition from POC to production in 6 months. Collaborated with Product, Architecture Teams, and stakeholders to implement a process handling large-scale data (60 million rows). Reduced extraction time from 15 to 3 hours, analyzed bottlenecks, and prepared cloud cost operation wikis for informed decision-making.",
+        "Headed the development team to adhere to the highest level of quality standards and committed to an increase of 99% code quality while also ensuring requirements are accurately met.",
+        "Led and mentored 2 teams (9 memebers), upskilling and reskilling. Four mentees were promoted in the last 2 years."
+      ]
+    },
+    {
+      "Tab": "Koch Industries - India",
+      "Title": "Technical Lead",
+      "Date": "December 2019 - June 2022",
+      "Description": [
+        "Led development of a GUI for monitoring machine health in 370+ tissue manufacturing plants across the USA and Canada, enhancing operational efficiency.",
+        "Designed micro frontend architecture with Angular 12",
+        "AWS ECS (FARGATE) with Dot net core 3.1 microservices.",
+        "Led a team of 6 members and technical mentor in the front-end."
+      ]
+    },
+    {
+      "Tab": "Pratian Technologies",
+      "Title": "Software Developer",
+      "Date": "May 2015 - Dec 2019",
+      "Description": [
+        "Strengthened developmental methodologies by introducing a code-quality document.",
+        "Weekly workshop on New Age Technology.",
+        "Strengthened developmental methodologies by introducing a code-quality document.",
+        "Creation of modules with complex reactive forms",
+        "Built 14 websites using .Net, Angularjs 1.6, C#, SQL Server, CSS, and HTML."
+      ]
+    }
+  ],
+
+  "GithubProjects.Title": "Projects",
+  "GithubProjects.Projects": [
+    {
+      "Title": "Data Structure & Algorithm",
+      "Description": "Comprehensive problem solving using typescript",
+      "ghLink": "https://github.com/senapatisantosh/Data-Structure-Algorithm",
+      "demoLink": "https://github.com/senapatisantosh/Data-Structure-Algorithm",
+      "Technologies": ["Typescript", "Jest", "Data Structure", "Algorithm"]
+    },
+    {
+      "Title": "Advance-.NET-Workshop",
+      "Description": "Multi Threading, Parallel Programming, Thread Synchronisation",
+      "ghLink": "https://github.com/senapatisantosh/Advance-.NET-Workshop",
+      "demoLink": "https://github.com/senapatisantosh/Advance-.NET-Workshop",
+      "Technologies": [".Net", "C#", "TPL", "Multi Threading"]
+    },
+    {
+      "Title": "Design Pattern using Typescript",
+      "Description": "Tutorial to typescript design patten and priciple",
+      "ghLink": "https://github.com/senapatisantosh/typescript-design-patterns",
+      "demoLink": "https://github.com/senapatisantosh/typescript-design-patterns",
+      "Technologies": ["Typescript", "Design pattern", "Design Principle"]
+    },
+    {
+      "Title": "TDD - Test Driven Development",
+      "Description": "Use case Scenario to approach Test Driven Development",
+      "ghLink": "https://github.com/senapatisantosh/tdd-using-typescript",
+      "demoLink": "https://github.com/senapatisantosh/tdd-using-typescript",
+      "Technologies": ["Typescript", "Jest", "TDD"]
+    }
+  ],
+  "Contact.Pretitle": "What’s Next",
+  "Contact.Title": "Get in touch!",
+  "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+  "Contact.Btn": "Say Hello"
+}
